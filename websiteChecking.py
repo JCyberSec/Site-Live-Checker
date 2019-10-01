@@ -1,8 +1,8 @@
 #!/usr/bin/env python
 # # -*- coding: utf-8 -*-
-# __author__ = "Jake Sloane"
-# __copyright__ = "Copyright 2018, CGI ATI"
-# __credits__ = ["Jake Sloane"]
+# __author__ = ""
+# __copyright__ = "Copyright 2019"
+# __credits__ = [""]
 # __license__ = "GPL"
 # __version__ = "0.3.1"
 
